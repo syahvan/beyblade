@@ -16,7 +16,7 @@ The dataset used for training the YOLO model consists of annotated images of bey
 
 ## Trained Models
 
-The trained YOLOv8 model used for detecting beyblades, hands, and launchers can be downloaded from [this link](blomada).
+The trained YOLOv8 model used for detecting beyblades, hands, and launchers can be downloaded from [this link](https://raw.githubusercontent.com/syahvan/beyblade/main/models/best.pt).
 
 ## Requirements
 
